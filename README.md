@@ -34,3 +34,5 @@ Open `index.html` in any modern browser. No build tools or dependencies required
 - HTML5 Canvas API
 - CSS3 (custom properties, grid, flexbox)
 - Vanilla JavaScript (ES6+)
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
